@@ -3,13 +3,13 @@ Following the process in https://github.com/xCuri0/ReBarUEFI
 
 Here is the patched BIOS file which can be used directly.
 
-**M7I**
+**M7I**(Asus Maximus VII Impact, z97)
 
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
 
 Tested with Intel ARC A770, 16GB RAM and 16GB BAR size.
 
-**M9F**
+**M9F**(Asus Maximus IX Formula, z270)
 
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
 
