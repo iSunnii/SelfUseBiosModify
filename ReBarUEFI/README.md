@@ -1,11 +1,15 @@
 Enable resizable bar on old motherboard.
 Following the process in https://github.com/xCuri0/ReBarUEFI
 
-M7I
+Here is the patched BIOS file which can be used directly.
+
+**M7I**
+
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
 Tested with Intel ARC A770 and 16GB BAR size.
 
-M9F
+**M9F**
+
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
 Tested with GTX3080 and 16GB BAR size.
 
