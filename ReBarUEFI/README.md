@@ -6,11 +6,13 @@ Here is the patched BIOS file which can be used directly.
 **M7I**
 
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
-Tested with Intel ARC A770 and 16GB BAR size.
+
+Tested with Intel ARC A770, 16GB RAM and 16GB BAR size.
 
 **M9F**
 
 Use flashback function. After flashing the BIOS, use ReBarState.exe to enable ReBar and set the size.
-Tested with GTX3080 and 16GB BAR size.
+
+Tested with GTX3080, 64GB RAM and 16GB BAR size.
 
 ![image](https://github.com/iSunnii/SelfUseBiosModify/assets/45059579/8807bdde-e6ae-4633-a52b-534eef5634da)
